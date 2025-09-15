@@ -1,3 +1,11 @@
+"""
+Author: Jonas Vanhulst
+Project: Python Learning Roadmap
+Description: A structured roadmap with projects to take learners from beginner 
+             to professional in Python development.
+Date: 2025
+"""
+
 def add_task(task, task_list):
     task_list.append(task)
     print(f'Task "{task}" added to the list.')

@@ -1,6 +1,10 @@
-from math import dist
-from numpy import integer
-
+"""
+Author: Jonas Vanhulst
+Project: Python Learning Roadmap
+Description: A structured roadmap with projects to take learners from beginner 
+             to professional in Python development.
+Date: 2025
+"""
 
 print("Python Basics\nGoal: Understanding syntax, variables, data types, and basic programming logic.")
 

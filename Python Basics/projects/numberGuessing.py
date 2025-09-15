@@ -1,3 +1,11 @@
+"""
+Author: Jonas Vanhulst
+Project: Python Learning Roadmap
+Description: A structured roadmap with projects to take learners from beginner 
+             to professional in Python development.
+Date: 2025
+"""
+
 import random
 
 def generate_random_number(start, end):
